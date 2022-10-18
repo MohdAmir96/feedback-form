@@ -88,7 +88,7 @@ function App() {
       </div>:null}
 {showAlertError?
       <div>
-<div><Alert className='alert' severity="error">Please Fill All the fields</Alert></div>
+<div><Alert className='alert' severity="error">Please fill all the fields</Alert></div>
       
       </div>:null}
       
